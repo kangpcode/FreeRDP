@@ -7,18 +7,18 @@ interoperability can finally liberate your computing experience.
 ## Resources
 
 Project website: https://www.freerdp.com/  
-Issue tracker: https://github.com/FreeRDP/FreeRDP/issues  
-Sources: https://github.com/FreeRDP/FreeRDP/  
+Issue tracker: https://github.com/dhaffnavyz/FreeRDP/issues  
+Sources: https://github.com/Dhaffnavyz/FreeRDP/  
 Downloads: https://pub.freerdp.com/releases/  
-Wiki: https://github.com/FreeRDP/FreeRDP/wiki  
+Wiki: https://github.com/dhaffnavyz/FreeRDP/wiki  
 API documentation: https://pub.freerdp.com/api/  
 
-Security policy: https://github.com/FreeRDP/FreeRDP/security/policy
+Security policy: https://github.com/dhaffnavyz/FreeRDP/security/policy
 
 Matrix room : #FreeRDP:matrix.org (main)
 XMPP channel: #FreeRDP#matrix.org@matrix.org (bridged)
 IRC channel : #freerdp @ irc.oftc.net (bridged)
-Mailing list: https://lists.sourceforge.net/lists/listinfo/freerdp-devel
+Mailing list: https://lists.sourceforge.net/lists/listinfo/dhaffnavy-devel
 
 ## Microsoft Open Specifications
 
@@ -26,9 +26,9 @@ Information regarding the Microsoft Open Specifications can be found at:
 https://www.microsoft.com/openspecifications/
 
 A list of reference documentation is maintained here:
-https://github.com/FreeRDP/FreeRDP/wiki/Reference-Documentation
+https://github.com/dhaffnavyz/FreeRDP/wiki/Reference-Documentation
 
 ## Compilation
 
 Instructions on how to get started compiling FreeRDP can be found on the wiki:
-https://github.com/FreeRDP/FreeRDP/wiki/Compilation
+https://github.com/dhaffnavyz/FreeRDP/wiki/Compilation
